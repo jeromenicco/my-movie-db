@@ -1,0 +1,17 @@
+.nav-wrap {
+    display: flex;
+}
+
+.nav-title-wrap {
+    display: flex;
+}
+
+.nav-title {
+    color: orange;
+    padding: 1em;
+}
+
+.button-wrap {
+    display: flex;
+}
+
